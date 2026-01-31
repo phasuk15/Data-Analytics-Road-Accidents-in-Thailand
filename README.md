@@ -1,6 +1,6 @@
 # Thailand Road Accidents & Road Types Analysis (2022)
 
-This repository contains a data analytics project analysing road traffic accidents in Thailand for the year 2022, with a specific focus on how accident frequency and severity vary across different road types.
+This repository contains a data analytics project analysing road traffic accidents in Bangkok, Thailand for the year 2022, with a specific focus on how accident frequency and severity vary across different road types.
 
 The project aims to uncover patterns, trends, and risk factors in Thailand’s road network using real-world accident data, supporting data-driven insights into road safety.
 
@@ -47,9 +47,7 @@ Datasets were cleaned, filtered, and merged to enable comparative analysis.
    - Bar charts, distributions, and comparative plots
    - Interpretation of trends and safety implications
 
+<img width="300" height="500" alt="image" src="https://github.com/user-attachments/assets/84c98641-5b56-481b-ae90-1a1fb21df1e2" />
+<img width="300" height="500" alt="image" src="https://github.com/user-attachments/assets/c652332f-b33a-42fc-9302-f3a9dc35ecdf" />
 
 
-
-## 📄 License
-
-This project is for educational and research purposes.
